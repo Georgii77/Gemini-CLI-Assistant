@@ -1,4 +1,4 @@
-# Gemini CLI Assistant - POSIX COMPLIENT
+# Gemini CLI Assistant - POSIX COMPLIANT
 
 A tiny sh-powered assistant that lets you query **Google Gemini** from your terminal — no browser, no fuss.  
 Works on any Linux machine. Highly aliasable for instant access (save those precious seconds).
